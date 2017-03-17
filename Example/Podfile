@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftyExtenstions_Example' do
+  pod 'SwiftyExtenstions', :path => '../'
+
+  target 'SwiftyExtenstions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
