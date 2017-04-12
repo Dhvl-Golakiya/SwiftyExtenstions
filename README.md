@@ -22,7 +22,7 @@ pod "SwiftyExtenstions"
 
 ## Author
 
-Dhvl-Golakiya, hiren.bharodia@gmail.com
+Dhvl-Golakiya, dhvl.golakiya@gmail.com
 
 ## License
 
